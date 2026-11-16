@@ -1,0 +1,4 @@
+[
+  {"question": "REPLACE with a question your documents can answer", "expected_source": "your_file.pdf"},
+  {"question": "REMPLACEZ par une question en français", "expected_source": "your_file.pdf"}
+]
